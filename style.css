@@ -1,0 +1,40 @@
+html {
+  background-image: url(bio.jpg);
+}
+body {
+  background-color: rgb(227, 236, 229);
+  color: rgb(0, 0, 0);
+  width: 900px;
+  padding: 20px;
+  border: dotted rgb(245, 250, 245);
+  margin: auto;
+  font-size: 20px;
+}
+input {
+  border-radius: 30px;
+  text-align: center;
+  width: 40px;
+  border-color: rgb(222, 231, 222);
+  height: 20px;
+}
+button {
+  width: 100px;
+  height: 30px;
+  border-radius: 10px;
+  font-weight: bold;
+  background-color: rgb(223, 235, 223);
+}
+.dataSheet {
+  text-align: center;
+}
+h1 {
+  text-align: center;
+}
+
+.theRest {
+  padding-left: 120px;
+}
+h2 {
+  text-align: center;
+  text-decoration-line: underline;
+}
